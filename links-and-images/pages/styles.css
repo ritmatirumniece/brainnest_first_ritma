@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/roboto);
+}
+
+* {
+    background-color: yellow;   
+    color: blueviolet;
+    font-family: 'Roboto' sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+.images {
+    border-color: 20px solid red;
+    border-radius: 25%;
+}
